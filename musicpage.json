@@ -1,0 +1,900 @@
+{
+  "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS/albums?offset=0&limit=20&include_groups=album,single,compilation,appears_on&market=US",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "href": "https://api.spotify.com/v1/albums/2c7gFThUYyo2t6ogAgIYNw",
+      "id": "2c7gFThUYyo2t6ogAgIYNw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735795e01c151ba5a8ce4bd295",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025795e01c151ba5a8ce4bd295",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515795e01c151ba5a8ce4bd295",
+          "width": 64
+        }
+      ],
+      "name": "Wasteland, Baby!",
+      "release_date": "2019-03-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2c7gFThUYyo2t6ogAgIYNw"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/4Pv7m8D82A1Xun7xNCKZjJ",
+      "id": "4Pv7m8D82A1Xun7xNCKZjJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024ca68d59a4a29c856a4a39c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514ca68d59a4a29c856a4a39c2",
+          "width": 64
+        }
+      ],
+      "name": "Hozier (Expanded Edition)",
+      "release_date": "2014-09-19",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:4Pv7m8D82A1Xun7xNCKZjJ"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6WY7D3jk8zTrHtmkqqo5GI",
+          "id": "6WY7D3jk8zTrHtmkqqo5GI",
+          "name": "Maren Morris",
+          "type": "artist",
+          "uri": "spotify:artist:6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
+      },
+      "href": "https://api.spotify.com/v1/albums/6HzebUNgGlzC1AMBwHGIkH",
+      "id": "6HzebUNgGlzC1AMBwHGIkH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/22c826dc51cb1c6e457d90ad539d3b20e8ea29e5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/41c540534b9a8807d90ba2548f71eac477cc408e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/039baf32db6c12afef45b6e418743f35c4d3970f",
+          "width": 64
+        }
+      ],
+      "name": "The Bones (with Hozier)",
+      "release_date": "2019-10-04",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6HzebUNgGlzC1AMBwHGIkH"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5aLXVXclcZBZNDIx4i2zAw"
+      },
+      "href": "https://api.spotify.com/v1/albums/5aLXVXclcZBZNDIx4i2zAw",
+      "id": "5aLXVXclcZBZNDIx4i2zAw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27367ebe6d09d8fce322ae9e7ae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0267ebe6d09d8fce322ae9e7ae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485167ebe6d09d8fce322ae9e7ae",
+          "width": 64
+        }
+      ],
+      "name": "Movement (Maya Jane Coles Remix)",
+      "release_date": "2019-01-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5aLXVXclcZBZNDIx4i2zAw"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+      },
+      "href": "https://api.spotify.com/v1/albums/7LDRKBdy3nivZDXnwUrgAE",
+      "id": "7LDRKBdy3nivZDXnwUrgAE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27342e136706c9ea2043500c335",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0242e136706c9ea2043500c335",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485142e136706c9ea2043500c335",
+          "width": 64
+        }
+      ],
+      "name": "Spotify Singles",
+      "release_date": "2019-01-09",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:7LDRKBdy3nivZDXnwUrgAE"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/115Lu0O1RlsdpksdbLS6LX"
+      },
+      "href": "https://api.spotify.com/v1/albums/115Lu0O1RlsdpksdbLS6LX",
+      "id": "115Lu0O1RlsdpksdbLS6LX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8c3ad5b81a32398ba7aa7c5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8c3ad5b81a32398ba7aa7c5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a8c3ad5b81a32398ba7aa7c5",
+          "width": 64
+        }
+      ],
+      "name": "Shrike (Live at Windmill Lane Studios)",
+      "release_date": "2018-11-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:115Lu0O1RlsdpksdbLS6LX"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "href": "https://api.spotify.com/v1/albums/78o6vcPIRwoph8a3StqaTU",
+      "id": "78o6vcPIRwoph8a3StqaTU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731cf36d1aad8e2b4dc9eb8b85",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021cf36d1aad8e2b4dc9eb8b85",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511cf36d1aad8e2b4dc9eb8b85",
+          "width": 64
+        }
+      ],
+      "name": "Nina Cried Power - EP",
+      "release_date": "2018-09-06",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:78o6vcPIRwoph8a3StqaTU"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4TiFORDt6OAJy3BMvqDLVq"
+      },
+      "href": "https://api.spotify.com/v1/albums/4TiFORDt6OAJy3BMvqDLVq",
+      "id": "4TiFORDt6OAJy3BMvqDLVq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b5df4918937d22d5a03dc774",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b5df4918937d22d5a03dc774",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b5df4918937d22d5a03dc774",
+          "width": 64
+        }
+      ],
+      "name": "Better Love",
+      "release_date": "2016-06-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4TiFORDt6OAJy3BMvqDLVq"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4cm3cwzDQ9IjWTj2u8K2ef"
+      },
+      "href": "https://api.spotify.com/v1/albums/4cm3cwzDQ9IjWTj2u8K2ef",
+      "id": "4cm3cwzDQ9IjWTj2u8K2ef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273628bd3f2e108009776294206",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02628bd3f2e108009776294206",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851628bd3f2e108009776294206",
+          "width": 64
+        }
+      ],
+      "name": "Live in America",
+      "release_date": "2015-07-31",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:4cm3cwzDQ9IjWTj2u8K2ef"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
+      },
+      "href": "https://api.spotify.com/v1/albums/4IEY5pUQMlTAAMfMNCc4pb",
+      "id": "4IEY5pUQMlTAAMfMNCc4pb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a83302bd4220383f1b3c863d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a83302bd4220383f1b3c863d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a83302bd4220383f1b3c863d",
+          "width": 64
+        }
+      ],
+      "name": "Spotify Sessions London",
+      "release_date": "2014-09-01",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:4IEY5pUQMlTAAMfMNCc4pb"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1H4dBoQxGjH0tllpZEC2SN"
+      },
+      "href": "https://api.spotify.com/v1/albums/1H4dBoQxGjH0tllpZEC2SN",
+      "id": "1H4dBoQxGjH0tllpZEC2SN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c3adefbf43c8dd5e8f2b73d9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c3adefbf43c8dd5e8f2b73d9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c3adefbf43c8dd5e8f2b73d9",
+          "width": 64
+        }
+      ],
+      "name": "Angel of Small Death and the Codeine Scene",
+      "release_date": "2014-08-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1H4dBoQxGjH0tllpZEC2SN"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0sL67HYFfUy5tY6oeH9kVj"
+      },
+      "href": "https://api.spotify.com/v1/albums/0sL67HYFfUy5tY6oeH9kVj",
+      "id": "0sL67HYFfUy5tY6oeH9kVj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c66e12a5140706f3998ef674",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c66e12a5140706f3998ef674",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c66e12a5140706f3998ef674",
+          "width": 64
+        }
+      ],
+      "name": "Like Real People Do",
+      "release_date": "2014-08-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0sL67HYFfUy5tY6oeH9kVj"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0WVaMxDk24GFmosl6aL3WH"
+      },
+      "href": "https://api.spotify.com/v1/albums/0WVaMxDk24GFmosl6aL3WH",
+      "id": "0WVaMxDk24GFmosl6aL3WH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27334f6df0764cf359195dc3777",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0234f6df0764cf359195dc3777",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485134f6df0764cf359195dc3777",
+          "width": 64
+        }
+      ],
+      "name": "Spotify Sessions: Live at SXSW 2014",
+      "release_date": "2014-07-28",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:0WVaMxDk24GFmosl6aL3WH"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "href": "https://api.spotify.com/v1/albums/0FubRTC6GUFPUg4y2Xuxs0",
+      "id": "0FubRTC6GUFPUg4y2Xuxs0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/21e6054465794dce9b84ca43f2e750c3a5c51485",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a8226c593651ba1185a95d7e783ed941e438bb50",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/47d99d35abec8043fe00649d15cee53628f92f87",
+          "width": 64
+        }
+      ],
+      "name": "From Eden EP",
+      "release_date": "2014-03-09",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:0FubRTC6GUFPUg4y2Xuxs0"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
+      },
+      "href": "https://api.spotify.com/v1/albums/4vPuWtVR7VLGRcdKWVwHBY",
+      "id": "4vPuWtVR7VLGRcdKWVwHBY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273afbbb944950de88267c198a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02afbbb944950de88267c198a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851afbbb944950de88267c198a1",
+          "width": 64
+        }
+      ],
+      "name": "Take Me to Church EP",
+      "release_date": "2013-09-13",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:4vPuWtVR7VLGRcdKWVwHBY"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2mtqLgrjRrAoiLto2al8e4"
+      },
+      "href": "https://api.spotify.com/v1/albums/2mtqLgrjRrAoiLto2al8e4",
+      "id": "2mtqLgrjRrAoiLto2al8e4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e6986b53ef736029b5dcf815",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e6986b53ef736029b5dcf815",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e6986b53ef736029b5dcf815",
+          "width": 64
+        }
+      ],
+      "name": "Cherry Wine (Live)",
+      "release_date": "2013",
+      "release_date_precision": "year",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2mtqLgrjRrAoiLto2al8e4"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/59UUkrNnzMLugHkYd2Edhq"
+      },
+      "href": "https://api.spotify.com/v1/albums/59UUkrNnzMLugHkYd2Edhq",
+      "id": "59UUkrNnzMLugHkYd2Edhq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27363fbf52524791fa94b88717f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0263fbf52524791fa94b88717f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485163fbf52524791fa94b88717f",
+          "width": 64
+        }
+      ],
+      "name": "Whole Lotta Live. Best of Today FM Sessions.",
+      "release_date": "2018-10-26",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:59UUkrNnzMLugHkYd2Edhq"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/44L47x5e4Af7L2GHcPafJY"
+      },
+      "href": "https://api.spotify.com/v1/albums/44L47x5e4Af7L2GHcPafJY",
+      "id": "44L47x5e4Af7L2GHcPafJY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731263157abee979ea3672fd2c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021263157abee979ea3672fd2c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511263157abee979ea3672fd2c",
+          "width": 64
+        }
+      ],
+      "name": "Background Piano for Studying",
+      "release_date": "2018-08-31",
+      "release_date_precision": "day",
+      "total_tracks": 50,
+      "type": "album",
+      "uri": "spotify:album:44L47x5e4Af7L2GHcPafJY"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0y87UYssdzgv3wOht0z4hI"
+          },
+          "href": "https://api.spotify.com/v1/artists/0y87UYssdzgv3wOht0z4hI",
+          "id": "0y87UYssdzgv3wOht0z4hI",
+          "name": "Bartolomeo Cristofori",
+          "type": "artist",
+          "uri": "spotify:artist:0y87UYssdzgv3wOht0z4hI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6gAcfDx9zv97M1DWbTXvp5"
+      },
+      "href": "https://api.spotify.com/v1/albums/6gAcfDx9zv97M1DWbTXvp5",
+      "id": "6gAcfDx9zv97M1DWbTXvp5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730a1d237b09cf633d32eaec08",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020a1d237b09cf633d32eaec08",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510a1d237b09cf633d32eaec08",
+          "width": 64
+        }
+      ],
+      "name": "US Top 20 Piano",
+      "release_date": "2015-04-22",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:6gAcfDx9zv97M1DWbTXvp5"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0AxHVLIktz0Mt3f8qz2kZZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0AxHVLIktz0Mt3f8qz2kZZ",
+      "id": "0AxHVLIktz0Mt3f8qz2kZZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733d882c30ffe7d95712b1abd8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023d882c30ffe7d95712b1abd8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513d882c30ffe7d95712b1abd8",
+          "width": 64
+        }
+      ],
+      "name": "Wish I Was Here (Music From The Motion Picture)",
+      "release_date": "2014-07-11",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0AxHVLIktz0Mt3f8qz2kZZ"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS/albums?offset=20&limit=20&include_groups=album,single,compilation,appears_on&market=US",
+  "offset": 0,
+  "previous": null,
+  "total": 21
+}
