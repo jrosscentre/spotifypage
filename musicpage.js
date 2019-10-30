@@ -1,17 +1,41 @@
-//2c7gFThUYyo2t6ogAglYNw
-//2FXC3k01G6Gw61bmprjgqS
+var musicpromise = d3.json ("https://deezerdevs-deezer.p.rapidapi.com/search?q=led%20zeppelin", {
+	"method": "GET",
+	"headers": {
+		"x-rapidapi-host": "deezerdevs-deezer.p.rapidapi.com",
+		"x-rapidapi-key": "c123de1447msh95ba0341d524584p15de3cjsn57eea2ac5be5"
+	}
+})
+                           
 
-var musicpromise = d3.json("musicpage.json");
-
-musicpromise.then (
+                           
+musicpromise.then(
+    
+     
     
     function(data)
     {
-    console.log("works",data);
-    }
+    getalbumnames (data)
+    console.log(data);
+    },
+    
     function(err)
     {
-        console.log("nope", err)
-    }
+        console.log(err);
+    },
+  
                       
 )
+
+var getalbumnames = function (nms)
+{
+    d3.select ("#list")
+    .selectAll("ul")
+    .data(nms)
+    .enter()
+    .append("li")
+    .text(function(d)
+         {
+        return d.data.title
+    })
+    
+}
